@@ -1,0 +1,3 @@
+https://www.thecrazyprogrammer.com/2016/10/android-real-time-chat-application-using-firebase-tutorial.html
+
+https://www.simplifiedcoding.net/create-chat-application-in-android-using-gcm-2/
